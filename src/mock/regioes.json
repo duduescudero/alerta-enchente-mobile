@@ -1,0 +1,6 @@
+[
+  { "id": "jardim-helena", "nome": "Jardim Helena", "corrego": "Córrego Itaim", "nivelCm": 92, "cotaAlertaCm": 80, "cotaEmergenciaCm": 120, "atualizadoEm": "2026-11-15T14:30:00-03:00", "orientacao": "Fique atento. Guarde documentos e remédios em lugar alto e evite atravessar ruas alagadas." },
+  { "id": "vila-itaim", "nome": "Vila Itaim", "corrego": "Córrego Lajeado", "nivelCm": 41, "cotaAlertaCm": 80, "cotaEmergenciaCm": 120, "atualizadoEm": "2026-11-15T14:30:00-03:00", "orientacao": "Sem risco agora. Continue acompanhando em dias de chuva forte." },
+  { "id": "itaim-paulista", "nome": "Itaim Paulista", "corrego": "Rio Itaquera", "nivelCm": 134, "cotaAlertaCm": 90, "cotaEmergenciaCm": 130, "atualizadoEm": "2026-11-15T14:30:00-03:00", "orientacao": "Perigo. Saia de áreas baixas, vá para um local seguro e ligue 199 (Defesa Civil) se precisar de ajuda." },
+  { "id": "sao-miguel", "nome": "São Miguel Paulista", "corrego": "Córrego Água Vermelha", "nivelCm": 58, "cotaAlertaCm": 85, "cotaEmergenciaCm": 125, "atualizadoEm": "2026-11-15T14:30:00-03:00", "orientacao": "Sem risco agora. Se começar a chover forte, volte aqui para ver o nível." }
+]
